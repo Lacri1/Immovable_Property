@@ -1,7 +1,7 @@
 # Seoul Apartment Price Analysis and Economic Policy Impact
 
 ## Project Overview
-This project analyzes the trends in Seoul apartment prices from 2013 to 2023 and examines the impact of economic policies (base interest rates, mortgage rates, etc.) on the real estate market. The analysis provides valuable insights into the relationship between macroeconomic policies and housing market dynamics in Seoul.
+This project analyzes the trends in Seoul apartment prices and examines the impact of economic policies (base interest rates, mortgage rates, etc.) on the real estate market. The analysis provides valuable insights into the relationship between macroeconomic policies and housing market dynamics in Seoul.
 
 ## Installation
 ```bash
@@ -11,7 +11,7 @@ pip install PublicDataReader pandas matplotlib seaborn numpy
 ## Key Analysis
 
 ### 1. Apartment Price Index and Jeonse Price Ratio Trends
-- Visualized the changes in Seoul's apartment price index and jeonse (key money) price ratio from 2013 to 2023
+- Visualized the changes in Seoul's apartment price index and jeonse (key money) price ratio
 - Price index showed a continuous upward trend since 2017, peaking in 2022 before starting to decline
 - Jeonse price ratio peaked in 2017, declined, and has recently shown signs of recovery
 
